@@ -58,3 +58,14 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 </p>
 
 #
+
+
+[روشن شدن ال ای دی با کلید ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/6_Pushbutton_LED_ON_OFF.ino)
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/6_Pushbutton_LED_ON_OFF.gif" alt="Pushbutton LED ON OFF" />
+</p>
+
+در این کد که در [اینجا](https://github.com/MohammadamMan/micro_arduino/blob/main/Arduino%20Code/6PushBottonLED-ON%2COFF.ino) است می توان بوسیله یک کلید ال ای دی را روشن کرد.
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/6_Pushbutton_LED_ON_OFF.jpeg" alt="Pushbutton LED ON OFF" />
+</p>
