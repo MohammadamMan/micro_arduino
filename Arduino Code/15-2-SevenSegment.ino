@@ -30,3 +30,4 @@ void printnum(int number){
     digitalWrite(i+1, sequence[number][i]);
   }
 }
+//mohammadzadeh
